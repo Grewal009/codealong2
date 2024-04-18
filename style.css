@@ -1,0 +1,8 @@
+.available {
+  color: green;
+}
+
+.busy {
+  color: red;
+  height: 150px;
+}
